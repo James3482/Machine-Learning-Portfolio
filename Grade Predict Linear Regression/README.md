@@ -1,4 +1,4 @@
-### Linear Regression
+### Linear Regression and dataset
 The code uses linear regression to predict the final grades that students from a dataset received. Linear regression is a machine-learning algorithm that is used to interpret and analyse data to make a prediction. In this case, we will take information about the students (which is the dataset) and then implement linear regression to use the information and deduce what the final grade of the students will be.
 
 ### Code Steps
