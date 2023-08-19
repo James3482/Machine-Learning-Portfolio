@@ -65,7 +65,7 @@ classifier.fit(x_train, y_train)
 y_pred = classifier.predict(x_test)
 y_pred
 ```
-9. We then evaluate the data and display it in a confusion matrix to interpret the number of positive diabetes results that our model predicted correctly and the number of negative diabetes results that our model predicted correctly
+9. We then evaluate the data and display it in a confusion matrix to interpret the number of positive diabetes results that our model predicted correctly and the number of negative diabetes results that our model predicted correctly:
 ```
 cm = confusion_matrix(y_test, y_pred)
 print(cm)
