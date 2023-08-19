@@ -17,13 +17,13 @@ This Portfolio is a demonstration of various machine learning techniques and dis
 *insert option descriptions below each item*
 
 ### Supervised Learning Techniques
-1. [Grade Predict](Grade%20Predict%20linear%20reggresion/GP.ipynb)
+1. [Grade Predict](Grade%20Predict%20Linear%20Regression/GP.ipynb)
 
     
-2. [K-NN](KNN/KNN-Diabetes/Predict%20Diabetes.ipynb)
+2. [K-NN](KNN/KNN-Predict.ipynb)
 
 ### Unsupervised Learning Technique
-3. [K-Means](KMeans/KMeans.ipynb)
+3. [K-Means](Kmeans-Unsupervised%20Learning/KMeans.ipynb)
 
 ### Essay
 5. [Title 3: "Privacy in the Age of AI: Navigating the Ethical Dimensions of Machine Learning"](https://docs.google.com/document/d/1FZAtHMZeZJ8r2d51GSk_UCVgDlW_YXPCTm45rXRcc4k/edit?usp=sharing)
