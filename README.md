@@ -17,8 +17,9 @@ This Portfolio is a demonstration of various machine learning techniques and dis
 1. Git Hub Repo (5 marks)
 
 ### Supervised Learning Techniques
-1. [Grade Predict (5 marks)](Grade%20Predict%20Linear%20Regression/GP.ipynb)
+1. [Grade Prediction (5 marks)](Grade%20Predict%20Linear%20Regression/GP.ipynb)
 
+[README.md file of Grade Prediction task](Grade%20Predict%20Linear%20Regression/README.md)
     
 3. [K-NN (5 marks)](KNN/KNN-Predict.ipynb)
 
