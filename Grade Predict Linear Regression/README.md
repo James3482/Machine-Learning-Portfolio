@@ -76,4 +76,4 @@ pyplot.show()
 ```
 
 ### Conclusion
-This model provides a comprehensive overview of the way linear regression and machine learning can be used to evaluate a dataset and provide a prediction of values based on the given data set. 
+This model provides a comprehensive overview of the way linear regression and machine learning can be used to evaluate a dataset and provide a prediction of values based on the given data set. In this specific model, we are using the method of linear regression to determine the final grade that a number of students received by evaluating other attributes present in the dataset.
