@@ -17,14 +17,16 @@ This Portfolio is a demonstration of various machine learning techniques and dis
 1. Git Hub Repo (5 marks)
 
 ### Supervised Learning Techniques
-1. [Grade Prediction (5 marks)](Grade%20Predict%20Linear%20Regression/GP.ipynb)
+2. [Grade Prediction (5 marks)](Grade%20Predict%20Linear%20Regression/GP.ipynb)
 
 [README.md file of Grade Prediction task](Grade%20Predict%20Linear%20Regression/README.md)
     
 3. [K-NN (5 marks)](KNN/KNN-Predict.ipynb)
 
+[README.md file of K-NN task](KNN/README.md)
+
 ### Unsupervised Learning Technique
-3. [K-Means (5 marks)](Kmeans-Unsupervised%20Learning/KMeans.ipynb)
+4. [K-Means (5 marks)](Kmeans-Unsupervised%20Learning/KMeans.ipynb)
 
 ### Essay
 5. [Title 3: "Privacy in the Age of AI: Navigating the Ethical Dimensions of Machine Learning" (10 marks)](https://docs.google.com/document/d/1FZAtHMZeZJ8r2d51GSk_UCVgDlW_YXPCTm45rXRcc4k/edit?usp=sharing)
