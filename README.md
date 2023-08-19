@@ -17,6 +17,9 @@ This Portfolio is a demonstration of various machine learning techniques and dis
 1. Git Hub Repo (5 marks)
 
 ### Supervised Learning Techniques
+Supervised learning is a machine learning type in which the algorithm learns from a labelled dataset, meaning that each input data point or attribute is linked with a corresponding target or output value that the algorithm will attempt to determine. The goal of supervised learning is to create a model that can learn from labelled data to make predictions based on pre-established attributes. Training the program to become more accurate in making predictions to the point that it can be used to identify trends and patterns in unlabeled data sets.
+
+
 2. [Grade Prediction (5 marks)](Grade%20Predict%20Linear%20Regression/GP.ipynb)
 
 [README.md file of Grade Prediction task](Grade%20Predict%20Linear%20Regression/README.md)
@@ -26,6 +29,8 @@ This Portfolio is a demonstration of various machine learning techniques and dis
 [README.md file of K-NN task](KNN/README.md)
 
 ### Unsupervised Learning Technique
+Unsupervised learning is a machine learning type in which a program learns patterns and structures from unlabeled data. Unlike supervised learning, where the algorithm is trained on labelled examples with explicit target outputs, unsupervised learning involves finding patterns, similarities, and trends within data without prior knowledge of correct answers for training.
+
 4. [K-Means (5 marks)](Kmeans-Unsupervised%20Learning/KMeans.ipynb)
 
 [README.md file of K-Means task](Kmeans-Unsupervised%20Learning/README.md)
@@ -57,7 +62,6 @@ This Portfolio is a demonstration of various machine learning techniques and dis
 
 ## References
 
-- [Cart Pole Control Environment in OpenAI Gym](https://aleksandarhaber.com/cart-pole-control-environment-in-openai-gym-gymnasium-introduction-to-openai-gym/) - Aleksandar Haber
 - [Markdown Syntax](https://wilsonmar.github.io/markdown-text-for-github-from-html/) - Learn your md
 - [Markdown Badge List](https://github.com/Ileriayo/markdown-badges) - Style your md with a badge
 - [One Direction](https://www.youtube.com/watch?v=AsmHz9JCU4M) - Coding Music?
