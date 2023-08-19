@@ -17,7 +17,8 @@ This Portfolio is a demonstration of various machine learning techniques and dis
 *insert option descriptions below each item*
 
 ### Supervised Learning Techniques
-1. [Mark Predictor](MarkPredictor/StudentCopy.ipynb) 
+1. [Grade Predict](Grade%20Predict%20linear%20reggresion/GP.ipynb)
+
     
 2. [K-NN](KNN/KNN-Diabetes/Predict%20Diabetes.ipynb)
 
