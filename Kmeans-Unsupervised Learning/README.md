@@ -81,3 +81,4 @@ print(classification_report(y, relabel))
 ```
 
 ### Conclusion
+In conclusion, the algorithm demonstrates the method of K-Means clustering, an unsupervised machine learning algorithm, by using the well-known Iris datasheet. K-Means clustering aims to group data points into clusters based on their similarities, without the need for labelled target values. In this specific model, we are using the method of clustering to determine flower species based on attributes present in the dataset (measurements of the flowers).
