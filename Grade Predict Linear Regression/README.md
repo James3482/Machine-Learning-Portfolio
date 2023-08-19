@@ -13,7 +13,7 @@ from sklearn import linear_model
 from sklearn.utils import shuffle
 from matplotlib import style
 ```
-2. We use the Pandas library to display the dataset that will be used:
+2. We use the Pandas library to display the dataset that will be used to train our model and come up with a prediction:
 ```
 data = pd.read_csv("student-mat.csv", sep=";")
 print (data.head())  
@@ -74,3 +74,6 @@ pyplot.xlabel(p)
 pyplot.ylabel("Final Grade")
 pyplot.show()
 ```
+
+### Conclusion
+This model provides a comprehensive overview of the way linear regression and machine learning can be used to evaluate a dataset and provide a prediction of values based on the given data set. 
