@@ -71,3 +71,6 @@ cm = confusion_matrix(y_test, y_pred)
 print(cm)
 print(f1_score(y_test, y_pred))
 ```
+
+### Conclusion
+The model demonstrates the process of using the K-Nearest Neighbors (KNN) algorithm to predict whether an individual will be diagnosed with diabetes or not based on various attributes. The code covers essential steps in the machine learning proccess and appropriotly displays the steps to making a model based on the KNN algorithm
