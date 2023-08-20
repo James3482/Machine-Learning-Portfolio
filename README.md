@@ -62,10 +62,7 @@ Unsupervised learning is a machine learning type in which a program learns patte
 
 ## References
 
-- [Markdown Syntax](https://wilsonmar.github.io/markdown-text-for-github-from-html/) - Learn your md
-- [Markdown Badge List](https://github.com/Ileriayo/markdown-badges) - Style your md with a badge
-- [One Direction](https://www.youtube.com/watch?v=AsmHz9JCU4M) - Coding Music?
-- [Twent-One Pilots](https://www.youtube.com/watch?v=pXRviuL6vMY) - Getting better...
-- [Ultimate Jupyter NB Flexes](https://noteable.io/blog/jupyter-notebook-shortcuts-boost-productivity/#:~:text=The%20shortcut%20to%20add%20a,cell%2C%20use%20the%20shortcut%20B.) - Flex correctly
+- [Flashpoint](https://flashpoint.io/blog/2021-data-breach-report/) - 2021 Data Breach
+- [Apple insider](https://appleinsider.com/articles/23/01/30/fourth-class-action-lawsuit-filed-against-apple-for-alleged-privacy-violations ) - Apple lawsuit
 
 
