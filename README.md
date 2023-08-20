@@ -10,7 +10,7 @@
 
 ## Overview
 
-This Portfolio is a demonstration of various machine learning techniques and displays the way in which machine learning can analyse and interpret data sets. 
+This Portfolio is a demonstration of various machine learning techniques and displays the way in which machine learning can analyse and interpret data sets. This portfolio shows examples of both supervised learning and unsupervised learning, as well as what each method means and how it influences a model. The files are set up in a git hub repository for ease of viewing and navigation.
 
 ## Project Options
 
